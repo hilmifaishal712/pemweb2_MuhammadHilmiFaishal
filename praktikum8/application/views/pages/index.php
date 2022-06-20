@@ -7,7 +7,7 @@
                     Welcome to WebAdmin !!
                 </h1>
                 <h4 class="pesan">
-                    Develop By <a href="#" style="color: #2f1359;"><i>Abdullah Azzam Robbani</i></a> &copy;2022
+                    Develop By <a href="https://www.instagram.com/hilmifaishal712/" style="color: #2f1359;"><i>Muhammad Hilmi Faishal</i></a> &copy;2022
                 </h4>
             </div>
         </section>
